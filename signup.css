@@ -1,0 +1,32 @@
+img {
+    width: 50%;
+    height: 55%;
+    margin-top: 2%;
+    margin-left: 3%;
+}
+
+h1 {
+    margin-top: 8%;
+    color: aliceblue;
+    text-align: center;
+}
+
+p {
+    width: 40%;
+    margin-top: 3%;
+    margin-right: 2%;
+    float: right;
+    text-align: justify;
+    font-size: 25px;
+    color: aliceblue;
+}
+
+.formm {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 7%;
+}
+
+label {
+    color: aliceblue;
+}

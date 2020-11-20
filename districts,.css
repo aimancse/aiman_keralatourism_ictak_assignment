@@ -1,0 +1,28 @@
+h1 {
+    color: aliceblue;
+    text-align: center;
+}
+
+.btn,
+.btn-primary,
+.btn-lg {
+    padding-top: 15px;
+    margin: 45px;
+}
+
+img {
+    width: 50%;
+    height: 55%;
+    margin-top: 2%;
+    margin-left: 3%;
+}
+
+p {
+    width: 40%;
+    margin-top: 3%;
+    margin-right: 2%;
+    float: right;
+    text-align: justify;
+    font-size: 25px;
+    color: aliceblue;
+}
